@@ -4,6 +4,6 @@ class Sanju:
         self.funny = funny
 
 #x = Sanju(skills = 'jumping', funny = 'alright humour')
-x = Sanju('Ghosting', 'Super Funny')
+x = Sanju('Ghosting', 'Super Funny') #alternate better approach
 print(x.skills)
 print(x.funny)

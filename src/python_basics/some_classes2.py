@@ -10,7 +10,7 @@ class Circle:
         self.area = radius * radius * self.pi
 
     def circumference(self):
-        return self.radius * 2 * self.pi
+        return self.radius * 2 * Circle.pi
 
 
 x = Circle()

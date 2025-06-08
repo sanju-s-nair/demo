@@ -15,6 +15,4 @@ class Character:
 
 vegeta = Character('Vegeta', 8999, 300, 'Final Flash')
 
-
-
-print(str(vegeta))
+print(vegeta.roster())

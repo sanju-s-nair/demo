@@ -20,4 +20,4 @@ class Bank:
 sanju = Bank('Sanju', 3000)
 
 print(sanju.deposit(200))
-print(sanju.debited(3400))
+print(sanju.debited(340))
